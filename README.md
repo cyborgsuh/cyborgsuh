@@ -3,11 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyborgsuh&label=Profile%20views&color=0e75b6&style=flat" alt="cyborgsuh" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🚀 Aspiring Data Analyst with a knack for Python.
+
+- 💻 Currently exploring the **data universe**, one line of code at a time.
 
 - 💬 Ask me about **Python and SQL**
 
-- 📫 How to reach me **mosuh64@gmail.com**
+- 🌐 Let's turn raw data into meaningful insights together!
+
+- 📈 Open to collaboration and always up for a tech chat.
+
+- ✉️ Feel free to drop a message—I'm just a byte away!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
